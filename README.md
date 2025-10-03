@@ -80,7 +80,7 @@ Contributions, issues, and feature requests are welcome! Please open an issue or
 
 ## Author
 
-- [Guil Lima] (https://github.com/gplima89)# AI Security with Microsoft Solutions
+- [Guil Lima] (https://github.com/gplima89) # AI Security with Microsoft Solutions
 
 This repository contains materials for a presentation and a practical demo on securing AI workloads using Microsoft Azure solutions.
 
