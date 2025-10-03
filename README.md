@@ -1,6 +1,6 @@
 # Azure Recovery Services Backup Inventory Script
 
-This repository contains a PowerShell script (`listazurebackups.ps1`) that inventories all Azure Recovery Services Vaults and their associated Azure VM backup configurations across all subscriptions in your tenant. The script exports the results to a CSV file for easy analysis and reporting.
+This repository contains a PowerShell script (`ExportAllBackupsOnAzure.ps1`) that inventories all Azure Recovery Services Vaults and their associated Azure VM backup configurations across all subscriptions in your tenant. The script exports the results to a CSV file for easy analysis and reporting.
 
 ## Features
 
@@ -80,7 +80,7 @@ Contributions, issues, and feature requests are welcome! Please open an issue or
 
 ## Author
 
-- [Your Name](https://github.com/yourusername)# AI Security with Microsoft Solutions
+- Guil Lima(https://github.com/gplima89)# AI Security with Microsoft Solutions
 
 This repository contains materials for a presentation and a practical demo on securing AI workloads using Microsoft Azure solutions.
 
@@ -145,6 +145,6 @@ For detailed instructions on how to implement the security policies demonstrated
 
 ## Author
 
-Manus AI (for Microsoft Cloud Solution Architect)
+Guil Lima (Microsoft Cloud Solution Architect)
 
 
